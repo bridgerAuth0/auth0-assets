@@ -4,10 +4,10 @@
 
 :root {
   /* Brand Colors */
-  --primary-color: #00adb5;       /* CUSTOM Teal Accent */
-  --primary-hover: #008f95;       /* Darker Teal for hover states */
-  --dark-bg: #0f2027;             /* Dark blue/gray header background */
-  --light-bg: #f4f7f6;            /* App background color */
+  --primary-color: #1b4da4;       /* CUSTOM Accent */
+  --primary-hover: #1b4da4;       /* hover states */
+  --dark-bg: #0f2027;             /* header background */
+  --light-bg: #007bff;            /* App background color */
   --text-main: #2c3e50;           /* Primary text color */
   --text-muted: #7f8c8d;          /* Secondary/muted text */
   --border-color: #e2e8f0;        /* Table and panel borders */
